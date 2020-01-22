@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53790469611",
+    "firebase_url": "https://secrettreasures-2310c.firebaseio.com",
+    "project_id": "secrettreasures-2310c",
+    "storage_bucket": "secrettreasures-2310c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53790469611:android:5a1606119c1e2db22a3dae",
+        "android_client_info": {
+          "package_name": "com.cuty.secrettreasures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53790469611-bq542mvre65rp435p9erujem3df45jis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuty.secrettreasures",
+            "certificate_hash": "ea8cf3f2fc80d1e6937723135efb19cfed4f2376"
+          }
+        },
+        {
+          "client_id": "53790469611-sbtklnjfqkggtpss8kjv89o7i1fvpp4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1p-HDLe-TgQdweV5TfNJ8jb1FvafFec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53790469611-sbtklnjfqkggtpss8kjv89o7i1fvpp4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
